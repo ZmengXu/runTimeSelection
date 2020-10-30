@@ -1,0 +1,5 @@
+base/combustionModel.C
+base/combustionModelNew.C
+WSR/WSR.C
+
+LIB = $(FOAM_USER_LIBBIN)/libcombustModel
